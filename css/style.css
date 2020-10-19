@@ -9,3 +9,10 @@ body {
 header {
     background-color: green;
 }
+
+footer {
+	height: 100px;
+	width: 100%;
+	display: block;
+	background-color: blue;
+}
